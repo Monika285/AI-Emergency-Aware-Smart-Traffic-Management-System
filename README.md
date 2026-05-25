@@ -84,8 +84,3 @@ Camera Feed → AI Processing → Decision Engine → Dashboard & Alerts
 
 ---
 
-## 📸 Project Preview
-
-<img width="1599" height="858" alt="image" src="https://github.com/user-attachments/assets/9e391f27-4af3-41d1-97cf-fc688a3b9971" />
-
-
